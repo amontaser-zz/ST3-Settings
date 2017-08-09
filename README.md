@@ -1,6 +1,6 @@
 # ST3-Settings
 
-
+```
 {
 	"always_show_minimap_viewport": true,
 	"auto_complete": true,
@@ -51,3 +51,4 @@
 	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
 	"word_wrap": "false"
 }
+```
